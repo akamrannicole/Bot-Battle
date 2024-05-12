@@ -35,7 +35,7 @@ Use this gif as an example of how the app should work.
 
 - Clone the repo by using the following:
 
-    git clone:https://github.com/Sharonobinda/Bot-Battlr.git
+    git clone:https://github.com/akamrannicole/Bot-Battle
 
 - Change directory to the repo folder;
 
@@ -75,14 +75,20 @@ As a user, I should be able to:
 
 ## Author
 
-SHARON OBINDA
+SHELVIN AKAMURAN
+
+## SNIPPET
+
+
+<video controls src="WhatsApp Video 2024-05-12 at 20.59.52_abb1f6df.mp4" title="MY BOT-BATTLR VIDEO"></video>
+
 
 ## Support and contact details
 
-email:: obindasharon6@gmail.com
+email:: akamranshelvin@gmail.com
 
-phone:: +254769600939
+phone:: +254794242466
 
 ## License
 
-*Licenced under the MIT License Copyright (c) 2024 **SHARON OBINDA
+*Licenced under the MIT License Copyright (c) 2024 **SHELVIN AKAMURAN
