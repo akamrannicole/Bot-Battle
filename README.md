@@ -77,10 +77,10 @@ As a user, I should be able to:
 
 SHELVIN AKAMURAN
 
-## SNIPPET
+## SNIPPET OF THE CHALLENGE
 
 
-<video controls src="WhatsApp Video 2024-05-12 at 20.59.52_abb1f6df.mp4" title="Title"></video>
+https://github.com/akamrannicole/Bot-Battle/issues/1#issue-2291941809
 
 
 ## Support and contact details
